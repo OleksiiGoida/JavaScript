@@ -1,7 +1,7 @@
 https://www.codewars.com/kata/convert-a-string-to-an-array/train/javascript
 
 function stringToArray(str){
-	return str.trim().split(" ");
+	return str.split(" ");
 }
 
 
